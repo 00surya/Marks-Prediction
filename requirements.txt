@@ -1,6 +1,7 @@
 numpy
 pandas
 joblib
+scikit-learn
 Click==7.0
 Flask==1.1.1
 gunicorn==19.9.0
